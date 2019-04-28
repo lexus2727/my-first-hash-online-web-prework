@@ -40,7 +40,7 @@ def adding
 
 
   # return the shipping_manifest below
-  shipping_manifest["oil paintings"] 
- # shipping_manifest
+  shipping_manifest["diamond necklace"] = 2
+  shipping_manifest
 
 end
